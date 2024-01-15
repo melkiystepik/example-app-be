@@ -7,7 +7,7 @@ const {
   url: redisUrl,
   db: redisDb,
   prefix: redisPrefix
-} = config.get('redis.url');
+} = config.get('redis');
 
 const appPort = config.get('app.port');
 

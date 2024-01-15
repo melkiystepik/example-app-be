@@ -16,7 +16,7 @@ run prod:
 
 - **`GET /redis/save`** - save to redis
 query params: key, value
-example: `POST localhost:3001/redis/save?key=test&value=123`
+example: `GET localhost:3001/redis/save?key=test&value=123`
 
 - **`GET /redis/get`** - to get data from redis
 query params: key
