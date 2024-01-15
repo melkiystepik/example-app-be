@@ -1,0 +1,9 @@
+{
+  "app": {
+    "name": "My Prod App"
+  },
+  "redis": {
+    "db": "1",
+    "prefix": "prod:"
+  }
+}

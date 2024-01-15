@@ -1,0 +1,11 @@
+{
+  "app": {
+    "port": "PORT",
+    "name": "APP_NAME"
+  },
+  "redis": {
+    "url": "REDIS_URL",
+    "db": "REDIS_DB",
+    "prefix": "REDIS_PREFIX"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "app": {
+    "port": "3001",
+    "name": "My Test App"
+  },
+  "redis": {
+    "url": "localhost:6579",
+    "db": "0",
+    "prefix": "dev:"
+  }
+}
